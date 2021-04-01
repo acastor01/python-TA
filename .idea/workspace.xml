@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11f200fe-4ac5-4513-ae5c-91b750f6a375" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python-TA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Branch_1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qZzYlR9WgIKHE4bQtFccIkRI5O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f200fe-4ac5-4513-ae5c-91b750f6a375" name="Default Changelist" comment="" />
+      <created>1617301949372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617301949372</updated>
+      <workItem from="1617301950558" duration="198000" />
+      <workItem from="1617302176692" duration="20000" />
+      <workItem from="1617302202889" duration="881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_TA$classDef.coverage" NAME="classDef Coverage Results" MODIFIED="1617301339709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$upperLower.coverage" NAME="upperLower Coverage Results" MODIFIED="1614108742073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$Ch__3_Program_Exercise_8.coverage" NAME="Ch. 3 Program Exercise 8 Coverage Results" MODIFIED="1611464349331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Ephraim Xiong_3398374_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1616090841234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$6_4.coverage" NAME="6-4 Coverage Results" MODIFIED="1612907952913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 6-4 Item Counter-1895413/Gavin Hill_3407907_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$mathQuiz.coverage" NAME="mathQuiz Coverage Results" MODIFIED="1612310359277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 5-11-1893341/Henri Hatch_3404149_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$februaryDays.coverage" NAME="februaryDays Coverage Results" MODIFIED="1611346020528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Henri Hatch_3398158_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$5_11__1_.coverage" NAME="5-11 (1) Coverage Results" MODIFIED="1612310215971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 5-11-1893341/Gavin Hill_3404151_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$division.coverage" NAME="division Coverage Results" MODIFIED="1612898525347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_TA$sales_report1.coverage" NAME="sales_report1 Coverage Results" MODIFIED="1612898670615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$9_1.coverage" NAME="9-1 Coverage Results" MODIFIED="1616970945291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2212TRsp21-0121717-Ex. Ch 9 - 1-1909040/Gavin Hill_3426729_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$3_8_hotdog.coverage" NAME="3-8-hotdog Coverage Results" MODIFIED="1611464966957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Samuel Rumsey_3398368_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$Ex__6_6.coverage" NAME="Ex. 6-6 Coverage Results" MODIFIED="1612911451551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 6-6 Average of Numbers-1895414/Karyn Hasselblad_3407918_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$insurance.coverage" NAME="insurance Coverage Results" MODIFIED="1611085470972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_TA$3_8.coverage" NAME="3.8 Coverage Results" MODIFIED="1611465094214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Tate Bounds_3398384_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$randomNumberFileWriter.coverage" NAME="randomNumberFileWriter Coverage Results" MODIFIED="1613420403213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 6-7 Random Number File Writer-1895415/Henri Hatch_3410811_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$check_age.coverage" NAME="check_age Coverage Results" MODIFIED="1612988738188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-Class 6-5-1895965/Samuel Rumsey_3408284_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$ListOfCities.coverage" NAME="ListOfCities Coverage Results" MODIFIED="1614024898642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-Class 7-4 Replace List item-1898379/Amiyah Hunter_3414098_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$Caesar.coverage" NAME="Caesar Coverage Results" MODIFIED="1614283912680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$search_coffee_records.coverage" NAME="search_coffee_records Coverage Results" MODIFIED="1613070185204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$secodns.coverage" NAME="secodns Coverage Results" MODIFIED="1616090533656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/Bauer_py$format.coverage" NAME="format Coverage Results" MODIFIED="1610661561493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_TA$findPrimes.coverage" NAME="findPrimes Coverage Results" MODIFIED="1612472554935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$volumeCalculator.coverage" NAME="volumeCalculator Coverage Results" MODIFIED="1611467411814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-class 4-3-1892211/Henri Hatch_3399064_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$inclass8_3.coverage" NAME="inclass8-3 Coverage Results" MODIFIED="1614634898725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-class 8-3-1899832/Connor Distad_3417779_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$Xiong.coverage" NAME="Xiong Coverage Results" MODIFIED="1611255845259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/To Grade" />
+    <SUITE FILE_PATH="coverage/python_TA$Ex__3_16__1_.coverage" NAME="Ex. 3-16 (1) Coverage Results" MODIFIED="1611346438929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Tobechukwu Okafor_3398155_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$exceptionHandling.coverage" NAME="exceptionHandling Coverage Results" MODIFIED="1613422872868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 6-9 Exception Handling-1895416/Joshua Bauer_3410844_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$gotjunk.coverage" NAME="gotjunk Coverage Results" MODIFIED="1614283476276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$Ex__3_16.coverage" NAME="Ex. 3-16 Coverage Results" MODIFIED="1611345328651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Gavin Hill_3398154_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$cookoutCalculator__1_.coverage" NAME="cookoutCalculator (1) Coverage Results" MODIFIED="1611464665701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Joshua Bauer_3398383_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$initials__1_.coverage" NAME="initials (1) Coverage Results" MODIFIED="1614110617432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$HotDogCookoutCalculator.coverage" NAME="HotDogCookoutCalculator Coverage Results" MODIFIED="1611464266788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Elise Whitehouse_3398388_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$initials.coverage" NAME="initials Coverage Results" MODIFIED="1614110274691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed/Menu" />
+    <SUITE FILE_PATH="coverage/python_TA$Ch__3_Program_Exercise_16.coverage" NAME="Ch. 3 Program Exercise 16 Coverage Results" MODIFIED="1611345051761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Ephraim Xiong_3398150_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$openFile.coverage" NAME="openFile Coverage Results" MODIFIED="1612467896427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$application.coverage" NAME="application Coverage Results" MODIFIED="1614279308291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/Samuel Rumsey - Major Program 2" />
+    <SUITE FILE_PATH="coverage/python_TA$6_6.coverage" NAME="6-6 Coverage Results" MODIFIED="1612911438962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 6-6 Average of Numbers-1895414/Gavin Hill_3407925_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$readNames.coverage" NAME="readNames Coverage Results" MODIFIED="1614106965299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$3_16_february.coverage" NAME="3.16-february Coverage Results" MODIFIED="1611346237508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Samuel Rumsey_3398142_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$Knuth.coverage" NAME="Knuth Coverage Results" MODIFIED="1611090131375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/To Grade" />
+    <SUITE FILE_PATH="coverage/python_TA$majorProgram.coverage" NAME="majorProgram Coverage Results" MODIFIED="1611696183553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_TA$2d.coverage" NAME="2d Coverage Results" MODIFIED="1613678157781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$main.coverage" NAME="main Coverage Results" MODIFIED="1617300232143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$hunter.coverage" NAME="hunter Coverage Results" MODIFIED="1610484303757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/To Grade" />
+    <SUITE FILE_PATH="coverage/python_TA$InClass_4_1.coverage" NAME="InClass 4-1 Coverage Results" MODIFIED="1611465381459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-Class 4-1-1892209/Alexander Brausen_3399027_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$ifelifelse.coverage" NAME="ifelifelse Coverage Results" MODIFIED="1611083775175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Bauer_py$Hunter.coverage" NAME="Hunter Coverage Results" MODIFIED="1610661567613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/To Grade" />
+    <SUITE FILE_PATH="coverage/python_TA$Hinrichs.coverage" NAME="Hinrichs Coverage Results" MODIFIED="1611096780479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/To Grade" />
+    <SUITE FILE_PATH="coverage/python_TA$7_1_in_calss.coverage" NAME="7-1 in calss Coverage Results" MODIFIED="1613950224873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-class 7-1-1897932/Alexander Brausen_3413621_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$In_Class_7_1.coverage" NAME="In-Class 7-1 Coverage Results" MODIFIED="1613951773958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-In-class 7-1-1897932/Tobechukwu Okafor_3413616_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$mod.coverage" NAME="mod Coverage Results" MODIFIED="1612406955133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python_TA$3_16.coverage" NAME="3-16 Coverage Results" MODIFIED="1611344460887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Ashley Hinrichs_3398144_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$name.coverage" NAME="name Coverage Results" MODIFIED="1614108049258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$primeKiller.coverage" NAME="primeKiller Coverage Results" MODIFIED="1612471810638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$params.coverage" NAME="params Coverage Results" MODIFIED="1614111322688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$9_1_In_Class.coverage" NAME="9-1 In Class Coverage Results" MODIFIED="1616965574671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2212TRsp21-0121717-In-Class 9-1-1914008/Alexander Brausen_3426579_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$cookoutCalculator.coverage" NAME="cookoutCalculator Coverage Results" MODIFIED="1611464423407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Henri Hatch_3398382_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$6_2.coverage" NAME="6-2 Coverage Results" MODIFIED="1612906422630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 6-2 File Head Display-1895410/Gavin Hill_3407870_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$format.coverage" NAME="format Coverage Results" MODIFIED="1610652871917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_TA$FebruaryDays__16_.coverage" NAME="FebruaryDays (16) Coverage Results" MODIFIED="1611345545051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-16-1891293/Elise Whitehouse_3398149_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$9_4.coverage" NAME="9-4 Coverage Results" MODIFIED="1616969666423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2212TRsp21-0121717-In-Class 9-4-1914011/Jacob Knuth_3426698_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$Homework_3_16.coverage" NAME="Homework 3.16 Coverage Results" MODIFIED="1612554746516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$Geometery.coverage" NAME="Geometery Coverage Results" MODIFIED="1612466158527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed/Geometric" />
+    <SUITE FILE_PATH="coverage/python_TA$Gaddis_3_8.coverage" NAME="Gaddis 3-8 Coverage Results" MODIFIED="1611347874141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Alexander Brausen_3398373_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$ex_3_8.coverage" NAME="ex.3-8 Coverage Results" MODIFIED="1611463961831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Connor Distad_3398387_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$5_11.coverage" NAME="5-11 Coverage Results" MODIFIED="1612310209163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 5-11-1893341/Ashley Hinrichs_3404147_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$test.coverage" NAME="test Coverage Results" MODIFIED="1617300349332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testbed" />
+    <SUITE FILE_PATH="coverage/python_TA$Ex__3_8.coverage" NAME="Ex. 3.8 Coverage Results" MODIFIED="1611464695137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Gaddis Ex 3-8-1891291/Karyn Hasselblad_3398375_assignsubmission_file_" />
+    <SUITE FILE_PATH="coverage/python_TA$boynames.coverage" NAME="boynames Coverage Results" MODIFIED="1614633147227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grading/COS2211TRsp21-0121716-Ex. 7-8 - Name Search-1898200/Tate Bounds_3417710_assignsubmission_file_" />
+  </component>
+</project>
