@@ -1,2 +1,7 @@
 /venv/
+
+# High-churn PyCharm workspace folder
 /.idea/
+
+# High-churn, used for grading assingments
+/Grading/
